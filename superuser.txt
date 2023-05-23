@@ -1,0 +1,7 @@
+super username: manuelmeza
+email: 213220102@upmh.edu.mx
+pass: admin
+
+username: rolando
+email: rolando@aloha.com
+pass: mario33lui
